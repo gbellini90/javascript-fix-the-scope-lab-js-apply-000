@@ -14,6 +14,12 @@ function yourAnimal() {
 function add2(n) {
  const two = 2
   return n + two
+<<<<<<< HEAD
+=======
+
+  // Feel free to move things around!
+  
+>>>>>>> 7003ff87b451eb697f94b0a0fd691be193a6f717
 }
   // Feel free to move things around!
 
